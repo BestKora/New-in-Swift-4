@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Table of contents'/>
+        <page name='Codable'/>
+        <page name='Strings'/>
+        <page name='One-sided ranges'/>
+        <page name='Key paths'/>
+        <page name='Dictionary and Set enhancements'/>
+        <page name='Composing classes and protocols'/>
+        <page name='Generic subscripts'/>
+        <page name='Associated type constraints'/>
+        <page name='swapAt'/>
+        <page name='Limiting @objc inference'/>
+        <page name='private in same-file extensions'/>
+    </pages>
+</playground>
